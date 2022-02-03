@@ -120,11 +120,11 @@ My attempt to list out some super-useful but not-so-popular websites which offer
 
 ## FREE Music &amp; Sound FX 🎶
 <ul>
-    <li><a href="https://freemusicarchive.org/" target="_blank">Free Music Archive</a> - FREE Music</li>
-    <li><a href="https://incompetech.com/" target="_blank">Incomptech</a> - FREE Music</li>
-    <li><a href="https://www.m-operator.com/" target="_blank">m-operator</a> - FREE Music</li>
-    <li><a href="https://www.purple-planet.com/" target="_blank">Purple Planet</a> - FREE Music</li>
-    <li><a href="https://www.free-stock-music.com/" target="_blank">Free Stock Music</a> - FREE Music</li>
+    <li><a href="https://freemusicarchive.org/" target="_blank">Free Music Archive</a></li>
+    <li><a href="https://incompetech.com/" target="_blank">Incomptech</a></li>
+    <li><a href="https://www.m-operator.com/" target="_blank">m-operator</a></li>
+    <li><a href="https://www.purple-planet.com/" target="_blank">Purple Planet</a></li>
+    <li><a href="https://www.free-stock-music.com/" target="_blank">Free Stock Music</a></li>
     <li><a href="https://www.fesliyanstudios.com/" target="_blank">Fesliyan Studios</a> - FREE Music &amp; Sound Effects</li>
     <li><a href="https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/" target="_blank">The Motion Monkey</a> - FREE 300 Retro Game Sound Effects</li>
     <li><a href="https://www.freesfx.co.uk/" target="_blank">Free SFX</a> - FREE Sound Effects</li>
