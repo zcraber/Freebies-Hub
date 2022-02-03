@@ -1,7 +1,7 @@
 # Freebies Hub
 My attempt to list out some super-useful but not-so-popular websites which offer images, vectors, videos, music, templates etc for FREE with personal &amp; commercial use license.
 
-## Multiple Freebies
+## Multiple Freebies 🌐
 <ul>
     <li><a data-cke-saved-href="https://mixkit.co/" href="https://mixkit.co/" rel="external nofollow">Mixkit</a> - FREE Images, Videos, Templates &amp; Music</li>
     <li><a data-cke-saved-href="https://pikwizard.com/" href="https://pikwizard.com/" rel="external nofollow">Pikwizard</a> - FREE Images &amp; Videos</li>
@@ -15,7 +15,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://publicdomainclip-art.blogspot.com/" href="https://publicdomainclip-art.blogspot.com/" rel="external nofollow">Clip Art Blog</a> - FREE Clip Art &amp; Images</li>
 </ul>
 
-## FREE Images
+## FREE Images 📷
 <ul>
     <li><a data-cke-saved-href="https://www.reshot.com/" href="https://www.reshot.com/" rel="external nofollow">Reshot</a> - FREE Images</li>
     <li><a data-cke-saved-href="https://freephotos.cc/" href="https://freephotos.cc/" rel="external nofollow">Freephotos</a> - FREE Images</li>
@@ -61,7 +61,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://wpclipart.com/" href="https://wpclipart.com/" rel="external nofollow">WPClipart</a> - FREE Images &amp; Clipart</li>
 </ul>
 
-## FREE Vectors
+## FREE Vectors 🎨
 <ul>
     <li><a data-cke-saved-href="https://www.openpeeps.com/" href="https://www.openpeeps.com/" rel="external nofollow">Open Peeps</a> - FREE Hand-drawn Vector Library&nbsp;</li>
     <li><a data-cke-saved-href="https://isometric.online/" href="https://isometric.online/" rel="external nofollow">Isometric</a> - FREE Isometric Vectors</li>
@@ -88,7 +88,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://ikonate.com/" href="https://ikonate.com/" rel="external nofollow">ikonate</a> - FREE Customizable Vector Icons</li>
 </ul>
 
-## FREE Mockups, Placeholders, Icons etc
+## FREE Mockups, Placeholders, Icons etc 💻
 <ul>
     <li><a data-cke-saved-href="https://uiprint.co/" href="https://uiprint.co/" rel="external nofollow">uiprint</a> - FREE Printable Wireframes, Mockup and Sketchpads</li>
     <li><a data-cke-saved-href="https://uilogos.co/" href="https://uilogos.co/" rel="external nofollow">uilogos</a> - FREE Logo Placeholders</li>
@@ -104,7 +104,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://www.uiuxrepo.com/" href="https://www.uiuxrepo.com/" rel="external nofollow">UIUX Repo</a> - FREE UI and graphic design resources for Photoshop, Sketch, Adobe Xd and Figma</li>
 </ul>
 
-## FREE Videos
+## FREE Videos 🎥
 <ul>
     <li><a data-cke-saved-href="https://mazwai.com/" href="https://mazwai.com/" rel="external nofollow">Mazwai</a> - FREE Videos</li>
     <li><a data-cke-saved-href="https://coverr.co/" href="https://coverr.co/" rel="external nofollow">Coverr</a> - FREE Videos</li>
@@ -116,7 +116,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://www.motionelements.com/free/stock-footage" href="https://www.motionelements.com/free/stock-footage" rel="external nofollow">Motion Elements</a> - FREE Stock Footage</li>
 </ul>
 
-## FREE Music &amp; Sound FX
+## FREE Music &amp; Sound FX 🎶
 <ul>
     <li><a data-cke-saved-href="https://freemusicarchive.org/" href="https://freemusicarchive.org/" rel="external nofollow">Free Music Archive</a> - FREE Music</li>
     <li><a data-cke-saved-href="https://incompetech.com/" href="https://incompetech.com/" rel="external nofollow">Incomptech</a> - FREE Music</li>
@@ -128,7 +128,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a data-cke-saved-href="https://www.freesfx.co.uk/" href="https://www.freesfx.co.uk/" rel="external nofollow">Free SFX</a> - FREE Sound Effects</li>
 </ul>
 
-## FREE Fonts 
+## FREE Fonts ✍🏼
 <ul>
     <li><a data-cke-saved-href="https://www.theleagueofmoveabletype.com/" href="https://www.theleagueofmoveabletype.com/" rel="external nofollow">League of Movable Type</a> - FREE Fonts</li>
     <li><a data-cke-saved-href="https://fontlibrary.org/" href="https://fontlibrary.org/" rel="external nofollow">Font Library</a> - FREE Fonts</li>
