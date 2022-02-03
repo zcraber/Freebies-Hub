@@ -135,7 +135,13 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.theleagueofmoveabletype.com/" target="_blank">League of Movable Type</a></li>
     <li><a href="https://fontlibrary.org/" target="_blank">Font Library</a></li>
     <li><a href="https://www.fontrepo.com/" target="_blank">FONT Repo</a></li>
+    <li><a href="https://www.fontget.com/" target="_blank">FontGet</a></li>
+    <li><a href="https://getfont.cc/" target="_blank">Get Font</a></li>
 </ul>
+
+### Credits 😍
+List of users who suggested new websites.
+<li><a href="https://github.com/bestinjac" target="_blank">@bestinjac</a></li>
 
 ### Notes 📒
 Feel free to make suggestions if you know of any <b>not-so-popular</b> websites that should be on this list. Also, kindly notify me by creating an issue if you found a broken link. Please note that I will not add your suggestion if the website is popular and well known. Because the purpose of this list is to shout out hidden gems. 💎
