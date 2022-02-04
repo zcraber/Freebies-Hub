@@ -90,7 +90,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://ikonate.com/" target="_blank">ikonate</a> - FREE Customizable Vector Icons</li>
 </ul>
 
-## FREE Mockups, Placeholders, Icons etc 💻
+## FREE Mockups, Placeholders, Icons, Templates etc 💻
 <ul>
     <li><a href="https://uiprint.co/" target="_blank">uiprint</a> - FREE Printable Wireframes, Mockup and Sketchpads</li>
     <li><a href="https://uilogos.co/" target="_blank">uilogos</a> - FREE Logo Placeholders</li>
@@ -104,6 +104,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.designdb.co/" target="_blank">Design DB</a> - FREE Templates</li>
     <li><a href="https://freeonepagetemplates.com/" target="_blank">FREE One Page Web Templates</a></li>
     <li><a href="https://www.uiuxrepo.com/" target="_blank">UIUX Repo</a> - FREE UI and graphic design resources for Photoshop, Sketch, Adobe Xd and Figma</li>
+    <li><a href="https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/" target="_blank">Oceanwatcher Media</a> - FREE Affinity Photo Templates</li>
 </ul>
 
 ## FREE Videos 🎥
@@ -128,6 +129,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.fesliyanstudios.com/" target="_blank">Fesliyan Studios</a> - FREE Music &amp; Sound Effects</li>
     <li><a href="https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/" target="_blank">The Motion Monkey</a> - FREE 300 Retro Game Sound Effects</li>
     <li><a href="https://www.freesfx.co.uk/" target="_blank">Free SFX</a> - FREE Sound Effects</li>
+    <li><a href="https://sound-effects.bbcrewind.co.uk/" target="_blank">BBC Sound Effects</a> - FREE Sound Effects</li>
 </ul>
 
 ## FREE Fonts ✍🏼
@@ -137,11 +139,13 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.fontrepo.com/" target="_blank">FONT Repo</a></li>
     <li><a href="https://www.fontget.com/" target="_blank">FontGet</a></li>
     <li><a href="https://getfont.cc/" target="_blank">Get Font</a></li>
+    <li><a href="http://velvetyne.fr/" target="_blank">VTF</a></li>
 </ul>
 
 ### Credits 😍
 List of users who suggested new websites.
 <li><a href="https://github.com/bestinjac" target="_blank">@bestinjac</a></li>
+<li><a href="https://forum.affinity.serif.com/index.php?/profile/132304-unemule/" target="_blank">@uneMule</a></li>
 
 ### Notes 📒
 Feel free to make suggestions <a href="https://github.com/zcraber/Freebies-Hub/issues" target="_blank">here</a> if you know of any <b>not-so-popular</b> websites that should be on this list. Also, kindly notify me by creating an issue if you found a broken link. Please note that I will not add your suggestion if the website is popular and well known. Because the purpose of this list is to shout out hidden gems. 💎
