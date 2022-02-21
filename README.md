@@ -142,6 +142,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.fontget.com/" target="_blank">FontGet</a></li>
     <li><a href="https://getfont.cc/" target="_blank">Get Font</a></li>
     <li><a href="http://velvetyne.fr/" target="_blank">VTF</a></li>
+    <li><a href="https://www.fontshare.com/" target="_blank">Fontshare</a></li>
 </ul>
 
 ### Credits 😍
