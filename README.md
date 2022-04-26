@@ -70,6 +70,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://illlustrations.co/" target="_blank">Illustrations</a> - FREE Kit with 100 Vectors</li>
     <li><a href="https://www.drawkit.io/free" target="_blank">DrawKit</a></li>
     <li><a href="https://undraw.co/" target="_blank">unDraw</a></li>
+    <li><a href="https://bulbman.art/" target="_blank">Bulbman</a> - FREE Artistic Illustrations for Designers</li>
     <li><a href="https://lukaszadam.com/illustrations" target="_blank">Lukaszadam</a></li>
     <li><a href="https://www.opendoodles.com/" target="_blank">Open Doodles</a></li>
     <li><a href="https://woobro.design/" target="_blank">Woobro</a></li>
@@ -88,7 +89,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.sketchappsources.com/all-free-sources.html" target="_blank">Sketch App Resources</a> - FREE Sketch Resources</li>
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
     <li><a href="https://ikonate.com/" target="_blank">ikonate</a> - FREE Customizable Vector Icons</li>
-    <li><a href="https://iconoir.com/" target="_blank">Iconoir</a> - FREE Icons (<a href="https://github.com/lucaburgio/iconoir">Open Source</a>)</li> 
+    <li><a href="https://iconoir.com/" target="_blank">Iconoir</a> - FREE Icons (<a href="https://github.com/lucaburgio/iconoir">Open Source</a>)</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Icons, Templates etc 💻
