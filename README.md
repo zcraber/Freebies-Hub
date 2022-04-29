@@ -90,6 +90,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
     <li><a href="https://ikonate.com/" target="_blank">ikonate</a> - FREE Customizable Vector Icons</li>
     <li><a href="https://iconoir.com/" target="_blank">Iconoir</a> - FREE Icons (<a href="https://github.com/lucaburgio/iconoir">Open Source</a>)</li>
+    <li><a href="https://smolicons.com/" target="_blank">Smolicons</a> - FREE Icons</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Icons, Templates etc 💻
