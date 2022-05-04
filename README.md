@@ -88,6 +88,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://desket.co/collections/icons/products/random-stuff-free-iconset" target="_blank">Desket</a> - FREE Random Vector Icons</li>
     <li><a href="https://www.sketchappsources.com/all-free-sources.html" target="_blank">Sketch App Resources</a> - FREE Sketch Resources</li>
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
+    <li><a href="https://iconmonstr.com/" target="_blank">iconmonstr</a> - FREE Icons</li>
     <li><a href="https://ikonate.com/" target="_blank">ikonate</a> - FREE Customizable Vector Icons</li>
     <li><a href="https://iconoir.com/" target="_blank">Iconoir</a> - FREE Icons (<a href="https://github.com/lucaburgio/iconoir">Open Source</a>)</li>
     <li><a href="https://heroicons.com/" target="_blank">Heroicons</a> - FREE Icons (<a href="https://github.com/tailwindlabs/heroicons">Open Source</a>)</li>
@@ -97,11 +98,10 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://heropatterns.com/" target="_blank">Hero Patterns</a> - FREE SVG Patterns</li>
 </ul>
 
-## FREE Mockups, Placeholders, Icons, Templates etc 💻
+## FREE Mockups, Placeholders, Templates etc 💻
 <ul>
     <li><a href="https://uiprint.co/" target="_blank">uiprint</a> - FREE Printable Wireframes, Mockup and Sketchpads</li>
     <li><a href="https://uilogos.co/" target="_blank">uilogos</a> - FREE Logo Placeholders</li>
-    <li><a href="https://iconmonstr.com/" target="_blank">iconmonstr</a> - FREE Icons</li>
     <li><a href="https://www.ls.graphics/free-mockups" target="_blank">lstore graphics</a> - FREE Mockups</li>
     <li><a href="https://themockup.club/" target="_blank">Mockup Club</a> - FREE Mockups</li>
     <li><a href="https://threed.io/" target="_blank">Thread</a> - FREE 3D Mockups Generator</li>
