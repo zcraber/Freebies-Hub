@@ -90,7 +90,11 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
     <li><a href="https://ikonate.com/" target="_blank">ikonate</a> - FREE Customizable Vector Icons</li>
     <li><a href="https://iconoir.com/" target="_blank">Iconoir</a> - FREE Icons (<a href="https://github.com/lucaburgio/iconoir">Open Source</a>)</li>
+    <li><a href="https://heroicons.com/" target="_blank">Heroicons</a> - FREE Icons (<a href="https://github.com/tailwindlabs/heroicons">Open Source</a>)</li>
     <li><a href="https://smolicons.com/" target="_blank">Smolicons</a> - FREE Icons</li>
+    <li><a href="http://www.zondicons.com/" target="_blank">Zondicons</a> - FREE Icons</li>
+    <li><a href="https://pattern.monster/" target="_blank">Pattern Monster</a> - FREE SVG Patterns (<a href="https://github.com/catchspider2002/svelte-svg-patterns">Open Source</a>)</li>
+    <li><a href="https://heropatterns.com/" target="_blank">Hero Patterns</a> - FREE SVG Patterns</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Icons, Templates etc 💻
