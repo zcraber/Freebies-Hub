@@ -129,6 +129,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.dareful.com/" target="_blank">Dareful</a></li>
     <li><a href="http://www.clipstill.com/" target="_blank">Clipstill</a> - FREE Cinemagraphs</li>
     <li><a href="https://www.motionelements.com/free/stock-footage" target="_blank">Motion Elements</a> - FREE Stock Footage</li>
+    <li><a href="https://www.videvo.net/" target="_blank">Videvo</a> - FREE Stock Footage</li>
 </ul>
 
 ## FREE Music &amp; Sound FX 🎶
