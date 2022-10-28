@@ -27,7 +27,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.slon.pics/" target="_blank">slon.pics</a></li>
     <li><a href="https://mystock.themeisle.com/" target="_blank">My Stock Photos</a></li>
     <li><a href="http://shutteroo.com/" target="_blank">Shutteroo</a></li>
-    <li><a href="http://trunklog.com/" target="_blank">Trunklog</a></li>
     <li><a href="https://skitterphoto.com/" target="_blank">Skitterphoto</a></li>
     <li><a href="https://picography.co/" target="_blank">Picography</a></li>
     <li><a href="https://burst.shopify.com/" target="_blank">Burst</a></li>
@@ -54,7 +53,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.lowpolygonart.com/" target="_blank">lowpolygonart</a> - FREE Low Polygon Art</li>
     <li><a href="https://www.streamlineicons.com/free/" target="_blank">Streamline Icons</a> - FREE PNG Icons</li>
     <li><a href="https://dribbble.com/shots/2150452-Cosmos-free-icon-set-1/attachments/394013" target="_blank">Cosmos</a> - FREE PSD Icons</li>
-    <li><a href="http://marysrosaries.com/collaboration/" target="_blank">marysrosaries</a> - FREE Images (Religious)</li>
     <li><a href="http://www.eirefirst.com/clipart.html" target="_blank">Irish Clip Art Archive</a> - FREE Clipart (Raster)</li>
     <li><a href="http://srufaculty.sru.edu/david.dailey/public/public_domain.htm" target="_blank">Dictionary Images</a> -FREE Public Domain Images and Illustrations from Dictionary</li>
     <li><a href="http://www.logodesignweb.com/stockphoto/" target="_blank">Logo Design Web</a> - FREE Public Domain Images</li>
@@ -74,7 +72,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://bulbman.art/" target="_blank">Bulbman</a> - FREE Artistic Illustrations for Designers</li>
     <li><a href="https://lukaszadam.com/illustrations" target="_blank">Lukaszadam</a></li>
     <li><a href="https://www.opendoodles.com/" target="_blank">Open Doodles</a></li>
-    <li><a href="https://woobro.design/" target="_blank">Woobro</a></li>
     <li><a href="https://www.freevector.com/" target="_blank">Free Vector</a></li>
     <li><a href="https://www.glazestock.com/" target="_blank">Glaze</a></li>
     <li><a href="https://www.manypixels.co/gallery/" target="_blank">manypixels</a></li>
@@ -86,7 +83,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://svgsilh.com/" target="_blank">SVG SILH</a> - FREE Vector Icons</li>
     <li><a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></li>
     <li><a href="https://www.peecheey.com/" target="_blank">Peechey</a></li>
-    <li><a href="https://desket.co/collections/icons/products/random-stuff-free-iconset" target="_blank">Desket</a> - FREE Random Vector Icons</li>
     <li><a href="https://www.sketchappsources.com/all-free-sources.html" target="_blank">Sketch App Resources</a> - FREE Sketch Resources</li>
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
     <li><a href="https://iconmonstr.com/" target="_blank">iconmonstr</a> - FREE Icons</li>
@@ -108,12 +104,10 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://uilogos.co/" target="_blank">uilogos</a> - FREE Logo Placeholders</li>
     <li><a href="https://www.ls.graphics/free-mockups" target="_blank">lstore graphics</a> - FREE Mockups</li>
     <li><a href="https://themockup.club/" target="_blank">Mockup Club</a> - FREE Mockups</li>
-    <li><a href="https://threed.io/" target="_blank">Thread</a> - FREE 3D Mockups Generator</li>
     <li><a href="https://365psd.com/" target="_blank">365psd</a> - FREE PSDs</li>
     <li><a href="https://www.creative-tim.com/templates/free" target="_blank">Creative Tim</a> - FREE Web Templates &amp; Themes</li>
-    <li><a href="https://emailmonster.io/" target="_blank">Email Monster</a> - FREE Email Templates</li>
+    <li><a href="https://unlayer.com/templates" target="_blank">Email Monster</a> - FREE Email Templates</li>
     <li><a href="https://www.designdb.co/" target="_blank">Design DB</a> - FREE Templates</li>
-    <li><a href="https://freeonepagetemplates.com/" target="_blank">FREE One Page Web Templates</a></li>
     <li><a href="https://www.uiuxrepo.com/" target="_blank">UIUX Repo</a> - FREE UI and graphic design resources for Photoshop, Sketch, Adobe Xd and Figma</li>
     <li><a href="https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/" target="_blank">Oceanwatcher Media</a> - FREE Affinity Photo Templates</li>
     <li><a href="https://www.dngcreative.com/freebies" target="_blank">DNG Creative</a> - FREE PSDs</li>
@@ -156,7 +150,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="http://velvetyne.fr/" target="_blank">VTF</a></li>
     <li><a href="https://www.fontshare.com/" target="_blank">Fontshare</a></li>
     <li><a href="https://www.wfonts.com/" target="_blank">wFonts</a></li>
-    <li><a href="https://www.wsdfsfts.com/" target="_blank">testlink</a></li>
     
 </ul>
 
