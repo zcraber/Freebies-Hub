@@ -1,2 +1,0 @@
-- name: Broken Link Checker Action
-  uses: technote-space/broken-link-checker-action@v1.1.3
