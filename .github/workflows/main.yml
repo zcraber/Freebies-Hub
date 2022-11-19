@@ -14,7 +14,7 @@
     # Issue body
     BODY: # default is ## Broken link found
 
-    Broken Link Checker found a broken link on ${TARGET}
+- Broken Link Checker found a broken link on ${TARGET}
 
   Target: `${URL}`
   > ${REASON}
