@@ -4,9 +4,9 @@
   uses: technote-space/broken-link-checker-action@v1.1.3
   with:
     # Secret GitHub API token to use for making API requests.
-    GITHUB_TOKEN: # default is ${{ github.token }}
+    GITHUB_TOKEN: ${{ github.token }}
     # Target link
-    TARGET: # default is https://github.com/${{ github.repository }}
+    TARGET: https://github.com/${{ github.repository }}
     # Recursive?
     RECURSIVE: # optional
     # Issue title
