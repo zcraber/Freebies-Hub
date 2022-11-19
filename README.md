@@ -60,6 +60,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://antiqueclipart.com/" target="_blank">Antique Clipart</a> - FREE Antique Clipart (Raster)</li>
     <li><a href="https://wpclipart.com/" target="_blank">WPClipart</a> - FREE Images &amp; Clipart</li>
     <li><a href="https://gradienta.io/" target="_blank">Gradienta</a> - FREE CSS Gradients &amp; JPGs</li>
+    <li><a href="https://clouddevs.com/3dbay/" target="_blank">3D Bay</a> - FREE 3D images</li>
 </ul>
 
 ## FREE Vectors 🎨
