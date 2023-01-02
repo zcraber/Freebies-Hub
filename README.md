@@ -53,7 +53,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.lowpolygonart.com/" target="_blank">lowpolygonart</a> - FREE Low Polygon Art</li>
     <li><a href="https://www.streamlineicons.com/free/" target="_blank">Streamline Icons</a> - FREE PNG Icons</li>
     <li><a href="https://dribbble.com/shots/2150452-Cosmos-free-icon-set-1/attachments/394013" target="_blank">Cosmos</a> - FREE PSD Icons</li>
-    <li><a href="http://www.eirefirst.com/clipart.html" target="_blank">Irish Clip Art Archive</a> - FREE Clipart (Raster)</li>
     <li><a href="http://srufaculty.sru.edu/david.dailey/public/public_domain.htm" target="_blank">Dictionary Images</a> -FREE Public Domain Images and Illustrations from Dictionary</li>
     <li><a href="http://www.logodesignweb.com/stockphoto/" target="_blank">Logo Design Web</a> - FREE Public Domain Images</li>
     <li><a href="https://www.pdclipart.org/" target="_blank">PDClipart</a> - FREE Clipart (Raster)</li>
@@ -70,7 +69,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://illlustrations.co/" target="_blank">Illustrations</a> - FREE Kit with 100 Vectors</li>
     <li><a href="https://www.drawkit.io/free" target="_blank">DrawKit</a></li>
     <li><a href="https://undraw.co/" target="_blank">unDraw</a></li>
-    <li><a href="https://bulbman.art/" target="_blank">Bulbman</a> - FREE Artistic Illustrations for Designers</li>
     <li><a href="https://lukaszadam.com/illustrations" target="_blank">Lukaszadam</a></li>
     <li><a href="https://www.opendoodles.com/" target="_blank">Open Doodles</a></li>
     <li><a href="https://www.freevector.com/" target="_blank">Free Vector</a></li>
@@ -97,6 +95,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> - FREE Icons (<a href="https://github.com/twbs/icons">Open Source</a>)</li>
     <li><a href="https://pattern.monster/" target="_blank">Pattern Monster</a> - FREE SVG Patterns (<a href="https://github.com/catchspider2002/svelte-svg-patterns">Open Source</a>)</li>
     <li><a href="https://heropatterns.com/" target="_blank">Hero Patterns</a> - FREE SVG Patterns</li>
+    <li><a href="https://github.com/edent/SuperTinyIcons" target="_blank">SuperTinyIcons</a> - FREE Miniscule SVG Icons of Websites & Apps </li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
@@ -111,7 +110,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.designdb.co/" target="_blank">Design DB</a> - FREE Templates</li>
     <li><a href="https://www.uiuxrepo.com/" target="_blank">UIUX Repo</a> - FREE UI and graphic design resources for Photoshop, Sketch, Adobe Xd and Figma</li>
     <li><a href="https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/" target="_blank">Oceanwatcher Media</a> - FREE Affinity Photo Templates</li>
-    <li><a href="https://www.dngcreative.com/freebies" target="_blank">DNG Creative</a> - FREE PSDs</li>
     <li><a href="https://unblast.com" target="_blank">Unblast</a> - FREE Mockups</li>
 </ul>
 
