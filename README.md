@@ -93,7 +93,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
         <li><a href="https://ionic.io/ionicons" target="_blank">Ionicons</a> - FREE Icons (<a href="https://github.com/ionic-team/ionicons">Open Source</a>)</li>
     <li><a href="https://smolicons.com/" target="_blank">Smolicons</a> - FREE Icons</li>
     <li><a href="http://www.zondicons.com/" target="_blank">Zondicons</a> - FREE Icons</li>
-    <li><a href="https://simpleicons.org/" target="_blank">Simpleicons</a> - FREE Icons</li>
+    <li><a href="https://simpleicons.org/" target="_blank">Simpleicons</a> - FREE Icons</li> (<a href="https://github.com/simple-icons/simple-icons">Open Source</a>)
     <li><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> - FREE Icons (<a href="https://github.com/twbs/icons">Open Source</a>)</li>
     <li><a href="https://pattern.monster/" target="_blank">Pattern Monster</a> - FREE SVG Patterns (<a href="https://github.com/catchspider2002/svelte-svg-patterns">Open Source</a>)</li>
     <li><a href="https://heropatterns.com/" target="_blank">Hero Patterns</a> - FREE SVG Patterns</li>
