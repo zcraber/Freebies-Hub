@@ -137,6 +137,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/" target="_blank">The Motion Monkey</a> - FREE 300 Retro Game Sound Effects</li>
     <li><a href="https://www.freesfx.co.uk/" target="_blank">Free SFX</a> - FREE Sound Effects</li>
     <li><a href="https://sound-effects.bbcrewind.co.uk/" target="_blank">BBC Sound Effects</a> - FREE Sound Effects</li>
+    <li><a href="https://99sounds.org/cinematic-sound-effects/" target="_blank">99Sounds</a> - FREE Cinematic Sound Effects</li>
 </ul>
 
 ## FREE Fonts ✍🏼
