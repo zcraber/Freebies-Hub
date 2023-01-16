@@ -96,6 +96,8 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://pattern.monster/" target="_blank">Pattern Monster</a> - FREE SVG Patterns (<a href="https://github.com/catchspider2002/svelte-svg-patterns">Open Source</a>)</li>
     <li><a href="https://heropatterns.com/" target="_blank">Hero Patterns</a> - FREE SVG Patterns</li>
     <li><a href="https://github.com/edent/SuperTinyIcons" target="_blank">SuperTinyIcons</a> - FREE Miniscule SVG Icons of Websites & Apps </li>
+    <li><a href="https://majesticons.com/" target="_blank">Majesticons</a> - FREE Icons (<a href="https://github.com/simple-icons/simple-icons">Open Source</a>)</li>
+    <li><a href="https://pixelarticons.com/" target="_blank">Pixelarticons</a> - FREE Icons (<a href="https://github.com/halfmage/pixelarticons">Open Source</a>)</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
