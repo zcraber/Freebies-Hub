@@ -60,6 +60,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://wpclipart.com/" target="_blank">WPClipart</a> - FREE Images &amp; Clipart</li>
     <li><a href="https://gradienta.io/" target="_blank">Gradienta</a> - FREE CSS Gradients &amp; JPGs</li>
     <li><a href="https://clouddevs.com/3dbay/" target="_blank">3D Bay</a> - FREE 3D images</li>
+    <li><a href="https://github.com/darriagada/Decay-Textures" target="_blank">Decay Textures</a> - FREE Grunge Textures</li>
 </ul>
 
 ## FREE Vectors 🎨
@@ -126,6 +127,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="http://www.clipstill.com/" target="_blank">Clipstill</a> - FREE Cinemagraphs</li>
     <li><a href="https://www.motionelements.com/free/stock-footage" target="_blank">Motion Elements</a> - FREE Stock Footage</li>
     <li><a href="https://www.videvo.net/" target="_blank">Videvo</a> - FREE Stock Footage</li>
+    <li><a href="https://github.com/darriagada/Retro-Noise" target="_blank">Retro Noise</a> - FREE Animated Noise Textures</li>
 </ul>
 
 ## FREE Music &amp; Sound FX 🎶
