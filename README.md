@@ -165,6 +165,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
 List of users who suggested new websites.
 <li><a href="https://github.com/bestinjac" target="_blank">@bestinjac</a></li>
 <li><a href="https://forum.affinity.serif.com/index.php?/profile/132304-unemule/" target="_blank">@uneMule</a></li>
+<li><a href="https://github.com/imjackchan target="_blank">@imjackchan</a></li>
 
 ### Notes 📒
 Feel free to make suggestions <a href="https://github.com/zcraber/Freebies-Hub/issues" target="_blank">here</a> if you know of any <b>not-so-popular</b> websites that should be on this list. Also, kindly notify me by creating an issue if you found a broken link. Please note that I will not add your suggestion if the website is popular and well known. Because the purpose of this list is to shout out hidden gems. 💎
