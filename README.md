@@ -85,7 +85,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://freesvg.org/" target="_blank">FREESVG</a></li>
     <li><a href="https://svgsilh.com/" target="_blank">SVG SILH</a> - FREE Vector Icons</li>
     <li><a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></li>
-    <li><a href="https://www.peecheey.com/" target="_blank">Peechey</a></li>
     <li><a href="https://www.sketchappsources.com/all-free-sources.html" target="_blank">Sketch App Resources</a> - FREE Sketch Resources</li>
     <li><a href="http://clipart.nicubunu.ro/" target="_blank">Nicu&apos;s Clipart Collection</a></li>
     <li><a href="https://iconmonstr.com/" target="_blank">iconmonstr</a> - FREE Icons</li>
