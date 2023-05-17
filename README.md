@@ -1,6 +1,6 @@
 # Freebies Hub
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
 
 My attempt to list out some super-useful but not-so-popular websites which offer images, vectors, videos, music, templates etc for FREE with personal &amp; commercial use license. I created this list originally in <a href="https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-free-images-vectors-videos-templates-music-fonts-more/" target="_blank">Affinity forum</a>.
 
