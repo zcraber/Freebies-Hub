@@ -17,9 +17,6 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        with:
-          exclude: |
-            https://www.videvo.net/          
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
