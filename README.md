@@ -122,7 +122,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
 <ul>
     <li><a href="https://mazwai.com/" target="_blank">Mazwai</a></li>
     <li><a href="https://coverr.co/" target="_blank">Coverr</a></li>
-    <li><a href="https://www.wedistill.io/" target="_blank">Distill</a></li>
     <li><a href="https://lifeofvids.com/" target="_blank">Life of Vids</a></li>
     <li><a href="https://www.vidsplay.com/" target="_blank">Vids Play</a></li>
     <li><a href="https://www.dareful.com/" target="_blank">Dareful</a></li>
