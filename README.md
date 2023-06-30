@@ -100,6 +100,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://github.com/edent/SuperTinyIcons" target="_blank">SuperTinyIcons</a> - FREE Miniscule SVG Icons of Websites & Apps </li>
     <li><a href="https://majesticons.com/" target="_blank">Majesticons</a> - FREE Icons (<a href="https://github.com/simple-icons/simple-icons">Open Source</a>)</li>
     <li><a href="https://pixelarticons.com/" target="_blank">Pixelarticons</a> - FREE Icons (<a href="https://github.com/halfmage/pixelarticons">Open Source</a>)</li>
+    <li><a href="https://icon-icons.com/" target="_blank">icon-icons</a> - FREE Icons </li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
@@ -165,7 +166,7 @@ List of users who suggested new websites.
 <li><a href="https://github.com/imjackchan" target="_blank">@imjackchan</a></li>
 
 ### Notes 📒
-Feel free to make suggestions <a href="https://github.com/zcraber/Freebies-Hub/issues" target="_blank">here</a> if you know of any <b>not-so-popular</b> websites that should be on this list. Also, kindly notify me by creating an issue if you found a broken link. Please note that I will not add your suggestion if the website is popular and well known. Because the purpose of this list is to shout out hidden gems. 💎
+Feel free to make suggestions <a href="https://github.com/zcraber/Freebies-Hub/issues" target="_blank">here</a> if you know of any <b>not-so-popular</b> websites that should be on this list. Please note that I will not add your suggestion if the website is popular and well-known. Because the purpose of this list is to shout out hidden gems. 💎
 
 ### Disclaimer 🔴
 I don't own any of these websites and I'll not be liable for any damage you get by using the items listed as freebies. Make sure to check the license terms of the item and crosscheck to ensure it is truly a freebie and not infringing someone's copyright. If you're the owner of one of the websites listed here and would like to remove it, just let me know. 🙂
