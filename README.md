@@ -104,6 +104,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://icon-icons.com/" target="_blank">icon-icons</a> - FREE Icons </li>
     <li><a href="https://icongr.am/" target="_blank">icongram</a> - FREE Icons</li>
     <li><a href="https://icones.js.org/" target="_blank">icones</a> - Icon Explorer</li>
+    <li><a href="https://www.streamlinehq.com/freebies" target="_blank">Streamline</a> - FREE Icons</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
@@ -119,9 +120,10 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://www.uiuxrepo.com/" target="_blank">UIUX Repo</a> - FREE UI and graphic design resources for Photoshop, Sketch, Adobe Xd and Figma</li>
     <li><a href="https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/" target="_blank">Oceanwatcher Media</a> - FREE Affinity Photo Templates</li>
     <li><a href="https://unblast.com" target="_blank">Unblast</a> - FREE Mockups</li>
+    <li><a href="https://www.pixeltrue.com/free-ui-kits" target="_blank">UI Kits</a> - FREE UI Kits</li>
 </ul>
 
-## FREE Videos 🎥
+## FREE Videos 
 <ul>
     <li><a href="https://mazwai.com/" target="_blank">Mazwai</a></li>
     <li><a href="https://coverr.co/" target="_blank">Coverr</a></li>
