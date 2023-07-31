@@ -102,6 +102,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://pixelarticons.com/" target="_blank">Pixelarticons</a> - FREE Icons (<a href="https://github.com/halfmage/pixelarticons">Open Source</a>)</li>
     <li><a href="https://icon-icons.com/" target="_blank">icon-icons</a> - FREE Icons </li>
     <li><a href="https://icongr.am/" target="_blank">icongram</a> - FREE Icons</li>
+    <li><a href="https://icones.js.org/" target="_blank">icones</a> - Icon Explorer</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
