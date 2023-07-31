@@ -63,6 +63,7 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://gradienta.io/" target="_blank">Gradienta</a> - FREE CSS Gradients &amp; JPGs</li>
     <li><a href="https://clouddevs.com/3dbay/" target="_blank">3D Bay</a> - FREE 3D images</li>
     <li><a href="https://github.com/darriagada/Decay-Textures" target="_blank">Decay Textures</a> - FREE Grunge Textures</li>
+    <li><a href="https://3dicons.co/" target="_blank">3dicons</a> - FREE 3D Icons</li>
 </ul>
 
 ## FREE Vectors 🎨
