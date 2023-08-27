@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/zcraber/Freebies-Hub/actions/workflows/links.yml/badge.svg)](https://github.com/zcraber/Freebies-Hub/actions/workflows/links.yml)
 
-My attempt to list out some super-useful but not-so-popular websites which offer images, vectors, videos, music, templates etc for FREE with personal &amp; commercial use license. I created this list originally in <a href="https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-free-images-vectors-videos-templates-music-fonts-more/" target="_blank">Affinity forum</a>.
+An attempt to list out some super-useful but not-so-popular websites that offer images, vectors, videos, music, templates etc. for FREE with personal &amp; commercial use licenses. I created this list originally in <a href="https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-free-images-vectors-videos-templates-music-fonts-more/" target="_blank">Affinity forum</a>.
 
 📌 <b><i>Sometimes attributions are required. So make sure to check the license terms before using the items.</i></b>
 
@@ -39,7 +39,6 @@ My attempt to list out some super-useful but not-so-popular websites which offer
     <li><a href="https://freenaturestock.com/" target="_blank">Free Nature Stock</a></li>
     <li><a href="https://travelcoffeebook.com/" target="_blank">Travel Coffee Book</a></li>
     <li><a href="http://skuawk.com/" target="_blank">Skuak</a></li>
-    <li><a href="https://stokpic.com/" target="_blank">Stokpic</a></li>
     <li><a href="https://freelyphotos.com/" target="_blank">Freely Photos</a></li>
     <li><a href="https://wunderstock.com/" target="_blank">Wunderstock</a></li>
     <li><a href="https://moveast.me/" href="https://moveast.me/" target="_blank">Moveast</a></li>
