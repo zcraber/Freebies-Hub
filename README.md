@@ -105,6 +105,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
     <li><a href="https://icones.js.org/" target="_blank">icones</a> - Icon Explorer</li>
     <li><a href="https://www.streamlinehq.com/freebies" target="_blank">Streamline</a> - FREE Icons</li>
     <li><a href="https://iconify.design/" target="_blank">Iconfiy</a> - FREE Icons (<a href="https://github.com/iconify">Open Source</a>)</li>
+    <li><a href="https://www.uxwing.com" target="_blank">UXWing</a> - FREE Icons</li>
 </ul>
 
 ## FREE Mockups, Placeholders, Templates etc 💻
@@ -160,8 +161,6 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
     <li><a href="http://velvetyne.fr/" target="_blank">VTF</a></li>
     <li><a href="https://www.fontshare.com/" target="_blank">Fontshare</a></li>
     <li><a href="https://www.wfonts.com/" target="_blank">wFonts</a></li>
-    <li><a href="https://www.fontskey.com/" target="_blank">FontsKey</a></li>
-    
 </ul>
 
 ### Credits 😍
