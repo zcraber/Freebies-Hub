@@ -110,7 +110,6 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Mockups, Placeholders, Templates etc 💻
 <ul>
-    <li><a href="https://uiprint.co/" target="_blank">uiprint</a> - FREE Printable Wireframes, Mockup and Sketchpads</li>
     <li><a href="https://uilogos.co/" target="_blank">uilogos</a> - FREE Logo Placeholders</li>
     <li><a href="https://www.ls.graphics/free-mockups" target="_blank">lstore graphics</a> - FREE Mockups</li>
     <li><a href="https://themockup.club/" target="_blank">Mockup Club</a> - FREE Mockups</li>
