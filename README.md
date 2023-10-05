@@ -124,7 +124,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
     <li><a href="https://www.pixeltrue.com/free-ui-kits" target="_blank">UI Kits</a> - FREE UI Kits</li>
 </ul>
 
-## FREE Videos 
+## FREE Videos 📽
 <ul>
     <li><a href="https://mazwai.com/" target="_blank">Mazwai</a></li>
     <li><a href="https://coverr.co/" target="_blank">Coverr</a></li>
