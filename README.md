@@ -32,7 +32,8 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
     <li><a href="http://shutteroo.com/" target="_blank">Shutteroo</a></li>
     <li><a href="https://skitterphoto.com/" target="_blank">Skitterphoto</a></li>
     <li><a href="https://picography.co/" target="_blank">Picography</a></li>
-    <li><a href="https://burst.shopify.com/" target="_blank">Burst</a></li>
+    <li><a href="https://www.shopify.com/stock-photos" target="_blank">Burst</a></li>
+    <li><a href="https://wordpress.org/photos/" target="_blank">WordPress Photo Directory</a></li>
     <li><a href="http://picmelon.com/" target="_blank">Pic Melon</a></li>
     <li><a href="https://myphotopack.com/" target="_blank">My Photo Pack</a></li>
     <li><a href="https://goo.gl/photos/6TB8VNQ6ADSk9T729" target="_blank">Vladmir&apos;s Collection</a></li>
