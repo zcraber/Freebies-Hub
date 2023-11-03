@@ -69,7 +69,6 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 ## FREE Vectors 🎨
 <ul>
     <li><a href="https://www.openpeeps.com/" target="_blank">Open Peeps</a> - FREE Hand-drawn Vector Library&nbsp;</li>
-    <li><a href="https://isometric.online/" target="_blank">Isometric</a> - FREE Isometric Vectors</li>
     <li><a href="https://illlustrations.co/" target="_blank">Illustrations</a> - FREE Kit with 100 Vectors</li>
     <li><a href="https://www.drawkit.io/" target="_blank">DrawKit</a></li> - Some illustrations are FREE
     <li><a href="https://undraw.co/" target="_blank">unDraw</a></li>
