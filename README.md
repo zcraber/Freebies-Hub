@@ -1,6 +1,6 @@
 # Freebies Hub
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/zcraber/Freebies-Hub/actions/workflows/links.yml/badge.svg)](https://github.com/zcraber/Freebies-Hub/actions/workflows/links.yml)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An attempt to list out some super-useful but not-so-popular websites that offer images, vectors, videos, music, templates etc. for FREE with personal &amp; commercial use licenses. I created this list originally in <a href="https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-free-images-vectors-videos-templates-music-fonts-more/" target="_blank">Affinity forum</a>.
 
@@ -160,6 +160,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
     <li><a href="http://velvetyne.fr/" target="_blank">VTF</a></li>
     <li><a href="https://www.fontshare.com/" target="_blank">Fontshare</a></li>
     <li><a href="https://www.wfonts.com/" target="_blank">wFonts</a></li>
+    <li><a href="https://usemodify.com/" target="_blank">usemodify</a></li>
 </ul>
 
 ### Credits 😍
