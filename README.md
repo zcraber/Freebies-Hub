@@ -104,6 +104,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [web3icons](https://tokenicons.io/) - FREE Icons ([Open Source](https://github.com/0xa3k5/web3icons))
 - [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon))
 - [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons))
+- [pixels.market](https://pixels.market/)
 
 ## FREE Mockups, Placeholders, Templates etc 💻
 - [uilogos](https://uilogos.co/) - FREE Logo Placeholders
@@ -151,6 +152,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Fontshare](https://www.fontshare.com/)
 - [wFonts](https://www.wfonts.com/)
 - [usemodify](https://usemodify.com/)
+- [Free Faces](https://www.freefaces.gallery/)
 
 ### Credits 😍
 List of users who suggested new websites:
