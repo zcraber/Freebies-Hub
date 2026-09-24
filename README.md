@@ -105,6 +105,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [picon](https://yne.fr/picon/) - FREE Icons ([Open Source](https://github.com/yne/picon))
 - [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons))
 - [pixels.market](https://pixels.market/)
+- [SVGicons](https://svgicons.com/) - FREE Icon Sets
 
 ## FREE Mockups, Placeholders, Templates etc 💻
 - [uilogos](https://uilogos.co/) - FREE Logo Placeholders
