@@ -157,6 +157,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 
 ## FREE Printables 🖨️
 - [Huebloom](https://huebloom.art/) - Colouring resources
+- [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
 
 ### Credits 😍
 List of users who suggested new websites:
