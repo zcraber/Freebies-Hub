@@ -119,6 +119,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Oceanwatcher Media](https://oceanwatcher.com/free-instagram-carousel-templates-for-affinity-photo/) - FREE Affinity Photo Templates
 - [Unblast](https://unblast.com) - FREE Mockups
 - [UI Kits](https://www.pixeltrue.com/free-ui-kits) - FREE UI Kits
+- [8B Templates](https://8b.com/templates/) - FREE One-Page HTML Website Templates for Local Businesses (MIT)
 
 ## FREE Videos 📽
 - [Mazwai](https://mazwai.com/)
