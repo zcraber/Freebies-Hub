@@ -143,7 +143,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Free SFX](https://www.freesfx.co.uk/) - FREE Sound Effects
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - FREE Sound Effects
 - [99Sounds](https://99sounds.org/cinematic-sound-effects/) - FREE Cinematic Sound Effects
-- [Soundza](https://soundza.com/) - FREE Sound Effects, Music Loops, Ambience & SFX Generator
+- [Soundza](https://soundza.com/) - FREE Sound Effects, Music Loops, Ambience & SFX Generator (Account Required)
 
 ## FREE Fonts ✍🏼
 - [League of Movable Type](https://www.theleagueofmoveabletype.com/)
