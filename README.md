@@ -145,6 +145,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - FREE Sound Effects
 - [99Sounds](https://99sounds.org/cinematic-sound-effects/) - FREE Cinematic Sound Effects
 - [Soundza](https://soundza.com/) - FREE Sound Effects, Music Loops, Ambience & SFX Generator (Account Required)
+- [DailySounds](https://dailysounds.org/?ref=freebieshub) - FREE Sound Effects for Games, Videos & Podcasts (No Sign-up)
 
 ## FREE Fonts ✍🏼
 - [League of Movable Type](https://www.theleagueofmoveabletype.com/)
