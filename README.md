@@ -106,6 +106,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [awsicons](https://awsicons.dev/) - FREE Icons ([Open Source](https://github.com/boyney123/awsicons))
 - [pixels.market](https://pixels.market/)
 - [SVGicons](https://svgicons.com/) - FREE Icon Sets
+- [noattributionicons](https://noattributionicons.com/) - FREE Color Icons (SVG & PNG), 3,700+ in 216 themed packs, no attribution or sign-up
 
 ## FREE Mockups, Placeholders, Templates etc 💻
 - [uilogos](https://uilogos.co/) - FREE Logo Placeholders
