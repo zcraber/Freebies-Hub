@@ -165,6 +165,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
 - [Coloring Pages Story](https://coloringpagestory.com/) - Printable coloring and drawing activities 
 - [Coloring Sunny](https://coloringsunny.com/) - Coloring resource for children, families, teachers, and adults (account required for more than 2 downloads)
+- [ThumbnailSnap Christmas Card Maker](https://thumbnailsnap.com/christmas-card-maker) - FREE printable 5×7 Christmas card from your own photo, 1500×2100 px (No Sign-up, No Watermark)
 
 ### Credits 😍
 List of users who suggested new websites:
