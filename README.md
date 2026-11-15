@@ -165,6 +165,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
 - [Coloring Pages Story](https://coloringpagestory.com/) - Printable coloring and drawing activities 
 - [Coloring Sunny](https://coloringsunny.com/) - Coloring resource for children, families, teachers, and adults (account required for more than 2 downloads)
+- [Notebook Generator](https://www.notebookgenerator.com/en/) - Printable graph, dot grid, lined and handwriting paper, planners and calendars in any paper size (no sign-up)
 
 ### Credits 😍
 List of users who suggested new websites:
