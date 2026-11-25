@@ -122,6 +122,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [UI Kits](https://www.pixeltrue.com/free-ui-kits) - FREE UI Kits
 - [8B Templates](https://8b.com/templates/) - FREE One-Page HTML Website Templates for Local Businesses (MIT)
 - [APPLORE iPhone Mockup](https://applore.app/iphone-mockup) - FREE iPhone Mockup Generator (No Sign-up, No Watermark)
+- [UKD Store Free Templates](https://store.usmankhairdin.com/collections/free-templates/) - FREE One-Page HTML/CSS/JS Website Templates with Live Demos (MIT)
 
 ## FREE Videos 📽
 - [Mazwai](https://mazwai.com/)
