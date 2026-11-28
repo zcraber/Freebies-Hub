@@ -165,6 +165,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [Coloring Fun](https://www.coloringfun.io/) - Coloring pages, color-by-number & dot-to-dot sheets
 - [Coloring Pages Story](https://coloringpagestory.com/) - Printable coloring and drawing activities 
 - [Coloring Sunny](https://coloringsunny.com/) - Coloring resource for children, families, teachers, and adults (account required for more than 2 downloads)
+- [Military Time Tools](https://militarytimetools.com) - Printable military time chart and phonetic alphabet chart as free PDFs, no signup
 
 ### Credits 😍
 List of users who suggested new websites:
